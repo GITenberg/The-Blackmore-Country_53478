@@ -1,0 +1,31 @@
+_repo: The-Blackmore-Country_53478
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Snell, F. J. (Frederick John)
+    aliases:
+    - Snell, Frederick John
+    - Caractacus
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '8397'
+    url: http://www.gutenberg.org/2009/agents/8397
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2016-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53478'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blackmore, R. D. (Richard Doddridge), 1825-1900 -- Homes and haunts -- England
+  -- Devon'
+- !lcsh 'Devon (England) -- Description and travel'
+- !lcsh 'Literary landmarks -- England -- Devon'
+- !lcc 'DA'
+- GITenberg
+title: The Blackmore Country
+url: http://www.gutenberg.org/ebooks/53478
